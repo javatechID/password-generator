@@ -1,7 +1,5 @@
 # Password Generator Tool
-
-![Tampilan Awal](https://i.ibb.co/z29wyCm/pasword1.png) 
-![Hasil Password](https://i.ibb.co/HxQCHVB/password2.png)
+Di bikin karna gabut.
 
 ## Deskripsi
 Alat ini adalah generator kata sandi sederhana yang membantu pengguna untuk membuat kata sandi yang aman dan kuat. Dengan menggunakan alat ini, pengguna dapat menghasilkan kata sandi baru berdasarkan kata sandi contoh yang diberikan dengan karakter-karakter diacak kecuali karakter pertama.
